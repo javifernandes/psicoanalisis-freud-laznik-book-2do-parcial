@@ -41,7 +41,9 @@ La paradoja de la satisfacción se formula así: la excitación interna de la zo
 
 ## 3. Represión
 
-La condición de la represión es que el displacer producido en otro sistema sea mayor que el placer de la satisfacción pulsional. Su esencia consiste en rechazar algo de la conciencia y mantenerlo alejado.
+La condición de la represión es que el displacer producido en otro sistema sea mayor que el placer de la satisfacción pulsional.
+
+> **Fórmula central.** La esencia de la \concept{represión} consiste en rechazar algo de la conciencia y mantenerlo alejado.
 
 ### Fases
 
@@ -49,7 +51,7 @@ La condición de la represión es que el displacer producido en otro sistema sea
 2. **\concept{Represión propiamente dicha}:** recae sobre retoños asociados al representante.
 3. **\concept{Retorno de lo reprimido}:** los retoños alcanzan expresión mediante sustituciones y deformaciones.
 
-La pulsión no es reprimida directamente. Se estudian los destinos de sus representantes y del monto de afecto.
+> **Distinción decisiva.** La \concept{pulsión} no es reprimida directamente. Se estudian los destinos de sus \concept{representantes} y del \concept{monto de afecto}.
 
 ### Características
 

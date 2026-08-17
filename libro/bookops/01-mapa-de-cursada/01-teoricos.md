@@ -34,7 +34,7 @@ El \concept{objeto pulsional} funciona como *instrumento contingente* del recorr
 | Huida | Imposible | Posible |
 | Tramitación | Exige trabajo psíquico y recorrido | Puede cancelarse mediante una acción apropiada |
 
-La \concept{pulsión} es un \concept{concepto fronterizo} entre lo anímico y lo somático y una \concept{medida de la exigencia de trabajo} impuesta a lo psíquico por su trabazón con el cuerpo.
+> **Definición de trabajo.** La \concept{pulsión} es un \concept{concepto fronterizo} entre lo anímico y lo somático y una \concept{medida de la exigencia de trabajo} impuesta a lo psíquico por su trabazón con el cuerpo.
 
 ## 2. Términos y destinos de la pulsión
 
@@ -58,7 +58,11 @@ La cursada se concentra en la represión porque permite explicar el síntoma. La
 
 Si la meta pulsional es la satisfacción, ¿por qué habría de reprimirse una pulsión? La respuesta requiere un conflicto: una misma satisfacción puede producir placer respecto de una exigencia y displacer respecto de otra.
 
-La represión busca evitar displacer. Su esencia consiste en rechazar algo de la conciencia y mantenerlo inconsciente. Esto presupone una diferenciación entre sistemas.
+La represión busca evitar displacer.
+
+> **Fórmula central.** La esencia de la \concept{represión} consiste en rechazar algo de la conciencia y mantenerlo inconsciente.
+
+Esto presupone una diferenciación entre sistemas.
 
 ### Represión primordial
 
@@ -136,7 +140,9 @@ El ejemplo Signorelli permite seguir:
 
 ### Representación-cosa y representación-palabra
 
-La representación consciente requiere el enlace entre representación-cosa y representación-palabra. La represión en las neurosis de transferencia deniega a la representación-cosa su traducción o enlace con palabras.
+> **Definición de trabajo.** La \concept{representación consciente} requiere el enlace entre \concept{representación-cosa} y \concept{representación-palabra}.
+
+La represión en las neurosis de transferencia deniega a la representación-cosa su traducción o enlace con palabras.
 
 Esto explica por qué interpretar no significa entregar un significado correcto desde afuera. El trabajo analítico produce enlaces y sentidos capaces de modificar la eficacia de lo inconsciente.
 
@@ -152,7 +158,9 @@ La cátedra distingue tres vertientes:
 | Positiva erótica | Reprimida | Puede operar como resistencia y demanda de amor |
 | Negativa hostil | Reprimida o actuada | Puede detener las asociaciones y obstaculizar |
 
-La transferencia es motor y obstáculo. Las mociones que sostenían la neurosis se actualizan con el analista: la cura no trabaja un conflicto ausente, sino uno presente en el dispositivo.
+> **Fórmula de la cátedra.** La \concept{transferencia} es *motor y obstáculo*.
+
+Las mociones que sostenían la neurosis se actualizan con el analista: la cura no trabaja un conflicto ausente, sino uno presente en el dispositivo.
 
 ## 7. Amor de transferencia
 

@@ -25,6 +25,23 @@ Ejemplos:
 - *recordar sin texto*;
 - *factor constitutivo*.
 
+## Definiciones fuertes
+
+Usar bloques de cita para definiciones, fórmulas de la cátedra y distinciones que conviene retener casi literalmente.
+
+Cuando la formulación no haya sido cotejada como cita textual de Freud, no presentarla entre comillas ni atribuírsela literalmente. Rotular el bloque según su estatuto:
+
+- `**Definición de trabajo.**` para una síntesis conceptual del libro;
+- `**Fórmula de la cátedra.**` para una formulación insistida en clase;
+- `**Distinción decisiva.**` para una oposición que evita confusiones;
+- `**Cita de Freud.**` sólo cuando se haya verificado el texto y la referencia.
+
+Ejemplo:
+
+> **Definición de trabajo.** La \concept{pulsión} es un \concept{concepto fronterizo} entre lo anímico y lo somático y una \concept{medida de la exigencia de trabajo} impuesta a lo psíquico por su trabazón con el cuerpo.
+
+El bloque destacado puede contener `\concept{...}`: ambos recursos cumplen funciones diferentes. La cita jerarquiza una proposición completa; el marcado conceptual identifica su vocabulario técnico.
+
 ## Diagramas
 
 Usar Mermaid para circuitos, secuencias, desplazamientos, alternativas y relaciones entre conceptos.
@@ -44,4 +61,3 @@ Cada diagrama debe:
 - Respetar la grafía de la edición utilizada en citas o nombres de obras.
 - En la exposición propia, usar de forma consistente “inconsciente”, salvo que se decida adoptar globalmente la grafía histórica de Amorrortu.
 - Distinguir siempre pulsión, representante psíquico de la pulsión, representación y monto de afecto.
-
