@@ -24,6 +24,10 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [De la teoría traumática a la pulsión](03-sintesis-integrada/01-de-la-teoria-traumatica-a-la-pulsion.md)
 - [Pulsión y sexualidad infantil](03-sintesis-integrada/02-pulsion-y-sexualidad-infantil.md)
 - [Fantasía y teorías sexuales infantiles](03-sintesis-integrada/03-fantasia-y-teorias-sexuales-infantiles.md)
+- [Órgano de doble función y conflicto pulsional](03-sintesis-integrada/04-organo-de-doble-funcion-y-conflicto-pulsional.md)
+- [Autoerotismo, identificación y constitución del yo](03-sintesis-integrada/05-autoerotismo-identificacion-y-yo.md)
+- [Narcisismo y elección de objeto](03-sintesis-integrada/06-narcisismo-y-eleccion-de-objeto.md)
+- [Yo ideal, Ideal del Yo y represión](03-sintesis-integrada/07-yo-ideal-ideal-del-yo-y-represion.md)
 
 ## Próximas partes
 
