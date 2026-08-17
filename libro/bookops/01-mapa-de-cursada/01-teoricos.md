@@ -8,6 +8,30 @@ El recorrido no consiste en sumar definiciones. Cada concepto obliga a reformula
 
 > \concept{Pulsión} → \concept{representante psíquico de la pulsión} → \concept{represión} → \concept{sistema inconsciente} → \concept{retorno de lo reprimido} → \concept{transferencia}.
 
+## Mapa conceptual del recorrido
+
+```mermaid
+flowchart TD
+  A["Sexualidad sin objeto natural"] --> B["Pulsión"]
+  B --> C["Cuerpo como sede de satisfacción"]
+  B --> D["Representante psíquico de la pulsión"]
+  D --> E["Represión primordial"]
+  E --> F["Fundación y diferenciación del aparato"]
+  D --> G["Retoños representativos"]
+  F --> H["Represión propiamente dicha"]
+  G --> H
+  H --> I["Retorno de lo reprimido"]
+  H --> J["Sistema inconsciente"]
+  J --> K["Representación-cosa y representación-palabra"]
+  I --> L["Síntoma"]
+  I --> M["Repetición"]
+  M --> N["Transferencia"]
+  L --> N
+  N --> O["Recordar y reelaborar"]
+```
+
+El grafo muestra la apuesta específica de teóricos: la \concept{transferencia} no aparece como un apéndice técnico. Es la actualización clínica de un recorrido que comienza con la \concept{pulsión}, exige pensar su inscripción, explica la \concept{represión} y permite comprender el \concept{retorno de lo reprimido}.
+
 ## 1. La pulsión desnaturaliza la sexualidad
 
 Freud necesita una teoría de lo sexual porque la sexualidad humana no puede explicarse mediante el instinto. Lo sexual incluye la genitalidad, pero la excede. La variabilidad de objetos y metas, que la concepción de la época clasificaba como perversión, permite advertir que no existe un objeto naturalmente ajustado a la especie.

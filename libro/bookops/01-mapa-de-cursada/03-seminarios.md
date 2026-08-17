@@ -8,6 +8,36 @@ Seminarios aporta el puente entre la exigencia pulsional y la constitución del 
 
 El recorrido enlaza fantasía, teorías sexuales infantiles, narcisismo, identificación, elección de objeto, ideales y angustia.
 
+## Mapa conceptual del recorrido
+
+```mermaid
+flowchart TD
+  A["Falta de saber sexual"] --> B["Exigencia pulsional"]
+  B --> C["Respuestas psíquicas"]
+  C --> D["Fantasía"]
+  C --> E["Teorías sexuales infantiles"]
+  D --> F["Formación de síntoma"]
+  E --> F
+  B --> G["Autoerotismo"]
+  G --> H["Pulsiones parciales"]
+  G -->|"Nuevo acto psíquico"| I["Identificación"]
+  I --> J["Constitución del Yo"]
+  J --> K["Narcisismo"]
+  K --> L["Libido yoica"]
+  K --> M["Libido de objeto"]
+  M --> N["Elección de objeto"]
+  I --> O["Ideal del Yo"]
+  O --> P["Medida y displacer"]
+  P --> Q["Represión"]
+  Q --> F
+  Q --> R["Destino del afecto"]
+  R --> S["Angustia"]
+  H --> T["Resto autoerótico"]
+  T -.->|"Límite de la unificación"| J
+```
+
+Seminarios muestra que el psiquismo no recibe pasivamente una sexualidad ya organizada. Construye respuestas, unidades e ideales. La \concept{identificación} constituye al \concept{Yo}, pero no absorbe toda la parcialidad: queda un *resto autoerótico*. Desde esa organización, ciertas satisfacciones producen conflicto, pueden caer bajo la \concept{represión} y retornar como síntoma o angustia.
+
 ## 1. De la teoría traumática a la fantasía
 
 Freud abandona la necesidad de un adulto seductor real como causa universal. En la Carta 69 reconoce haber sobrevalorado la realidad efectiva e infravalorado la fantasía.

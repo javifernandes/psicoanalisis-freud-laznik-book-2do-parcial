@@ -10,6 +10,31 @@ Los prácticos vuelven operativos los conceptos. Si teóricos reconstruye el gra
 - ¿cómo se reconoce clínicamente?;
 - ¿qué formulación puede sostener una respuesta de parcial?
 
+## Mapa conceptual del recorrido
+
+```mermaid
+flowchart TD
+  A["Sexualidad infantil"] --> B["Pulsiones parciales"]
+  B --> C["Satisfacción pulsional"]
+  C --> D{"Conflicto y displacer"}
+  D -->|"Defensa"| E["Represión"]
+  E --> F["Representación reprimida"]
+  E --> G["Destino del monto de afecto"]
+  F --> H["Formación sustitutiva"]
+  G --> I["Afecto o angustia"]
+  H --> J["Síntoma"]
+  I --> J
+  J --> K["Satisfacción sustitutiva"]
+  J --> L["Transferencia al analista"]
+  L --> M{"¿Motor o resistencia?"}
+  M -->|"Asociación"| N["Trabajo analítico"]
+  M -->|"Actuación"| O["Repetición"]
+  O --> P["Reelaboración de resistencias"]
+  N --> P
+```
+
+El práctico sigue los mecanismos sin perder su consecuencia clínica: distingue aquello que se reprime, el destino del afecto y las formas del retorno; luego observa cómo el mismo conflicto se actualiza en la \concept{transferencia} y se vuelve accesible al trabajo de \concept{reelaboración}.
+
 ## 1. *Tres ensayos*: el síntoma como práctica sexual
 
 La oposición fundamental es \concept{pulsión} e *instinto*. La sexualidad humana no se encuentra subordinada naturalmente a la reproducción y sus objetos y metas son variables.

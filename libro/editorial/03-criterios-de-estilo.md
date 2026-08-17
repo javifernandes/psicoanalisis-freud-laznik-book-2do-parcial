@@ -55,6 +55,21 @@ Cada diagrama debe:
 - evitar equiparar conceptos cuando la cátedra sólo propone un paralelismo;
 - estar acompañado por una explicación en prosa.
 
+### Mapas conceptuales de apertura
+
+Cada parte extensa puede incluir, después de su pregunta o función organizadora, un mapa conceptual dirigido que anticipe el recorrido completo.
+
+Estos mapas no deben fingir una cronología cuando el vínculo es lógico. Las flechas pueden expresar, según se rotule:
+
+- condición;
+- transformación;
+- consecuencia;
+- bifurcación de destinos;
+- retorno o actualización;
+- límite o tensión.
+
+Usar líneas punteadas para relaciones de límite, paralelismo o influencia que no equivalgan a una derivación causal directa. El texto posterior debe explicar la tesis del mapa y advertir las relaciones que sean propuestas específicas de la cátedra.
+
 ## Terminología
 
 - Mantener el término oficial de la guía cuando se cite su título.
