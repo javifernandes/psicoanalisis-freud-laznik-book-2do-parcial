@@ -32,6 +32,10 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [Tópica y dinámica de la represión](03-sintesis-integrada/09-topica-y-dinamica-de-la-represion.md)
 - [El sistema inconsciente](03-sintesis-integrada/10-el-sistema-inconsciente.md)
 - [Retorno, síntoma y destinos del afecto](03-sintesis-integrada/11-retorno-sintoma-y-afecto.md)
+- [La dinámica de la transferencia](03-sintesis-integrada/12-la-dinamica-de-la-transferencia.md)
+- [Transferencia: motor, obstáculo y resistencia](03-sintesis-integrada/13-transferencia-motor-obstaculo-y-resistencia.md)
+- [Amor de transferencia y abstinencia](03-sintesis-integrada/14-amor-de-transferencia-y-abstinencia.md)
+- [Recordar, repetir y reelaborar](03-sintesis-integrada/15-recordar-repetir-y-reelaborar.md)
 
 ## Próximas partes
 
