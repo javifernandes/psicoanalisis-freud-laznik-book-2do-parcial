@@ -18,12 +18,18 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 
 - [Tabla maestra de textos de Freud](02-textos-y-ejes/01-tabla-maestra.md)
 
+### Síntesis integrada
+
+- [El recorrido cohesivo](03-sintesis-integrada/00-el-recorrido-cohesivo.md)
+- [De la teoría traumática a la pulsión](03-sintesis-integrada/01-de-la-teoria-traumatica-a-la-pulsion.md)
+- [Pulsión y sexualidad infantil](03-sintesis-integrada/02-pulsion-y-sexualidad-infantil.md)
+- [Fantasía y teorías sexuales infantiles](03-sintesis-integrada/03-fantasia-y-teorias-sexuales-infantiles.md)
+
 ## Próximas partes
 
-1. Síntesis conceptual integrada.
+1. Completar la síntesis conceptual integrada.
 2. Casos, escenas y diagramas.
 3. Fichas de textos.
 4. Entrenamiento para el parcial.
 
 La zona de angustia y ganancia de la enfermedad permanece provisional hasta incorporar las clases finales.
-
