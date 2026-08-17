@@ -28,6 +28,10 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [Autoerotismo, identificación y constitución del yo](03-sintesis-integrada/05-autoerotismo-identificacion-y-yo.md)
 - [Narcisismo y elección de objeto](03-sintesis-integrada/06-narcisismo-y-eleccion-de-objeto.md)
 - [Yo ideal, Ideal del Yo y represión](03-sintesis-integrada/07-yo-ideal-ideal-del-yo-y-represion.md)
+- [Representante psíquico y fases de la represión](03-sintesis-integrada/08-representante-psiquico-y-fases-de-la-represion.md)
+- [Tópica y dinámica de la represión](03-sintesis-integrada/09-topica-y-dinamica-de-la-represion.md)
+- [El sistema inconsciente](03-sintesis-integrada/10-el-sistema-inconsciente.md)
+- [Retorno, síntoma y destinos del afecto](03-sintesis-integrada/11-retorno-sintoma-y-afecto.md)
 
 ## Próximas partes
 
