@@ -1,0 +1,16 @@
+{
+  "format": "bookops-md",
+  "version": 1,
+  "book": {
+    "title": "Psicoanálisis Freud — Segundo parcial",
+    "subtitle": "Pulsión, fantasía, narcisismo, represión, inconsciente y transferencia",
+    "author": "Javier Fernandes",
+    "language": "es"
+  },
+  "structure": {
+    "kind": "numbered-folders-and-files",
+    "partsAreNumberedFolders": true,
+    "chaptersAreNumberedMarkdownFiles": true,
+    "rootReadmeIsMetadataOnly": true
+  }
+}
