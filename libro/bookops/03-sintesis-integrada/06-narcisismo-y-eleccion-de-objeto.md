@@ -92,16 +92,32 @@ La sexualidad se había apuntalado en la autoconservación; la elección amorosa
 
 En la \concept{elección narcisista}, el objeto vale por su relación con el propio yo. Puede elegirse:
 
-- lo que uno es;
-- lo que uno fue;
-- lo que uno quisiera ser;
-- aquello que alguna vez fue parte de uno.
+- **lo que uno es:** según la posición actual del yo;
+- **lo que uno fue:** ligado a una imagen anterior y al narcisismo resignado;
+- **lo que uno quisiera ser:** orientado por el Ideal del Yo;
+- **aquello que alguna vez fue parte de uno:** como el hijo, investido desde el propio narcisismo.
 
 En las notas, la fórmula “que me ame” condensa una modalidad donde el objeto interesa por la confirmación narcisista que devuelve.
 
 > **Distinción de trabajo.** En la elección anaclítica predomina la marca del cuidado recibido; en la narcisista, la relación del objeto con la propia imagen e ideal.
 
 No son casilleros excluyentes. Una elección concreta puede combinar ambas modalidades.
+
+## *His Majesty the Baby*
+
+La sobreestimación parental ofrece un caso privilegiado de elección narcisista. El hijo no es investido únicamente como un otro separado: recibe deseos, perfecciones y aspiraciones que los padres debieron abandonar.
+
+```mermaid
+flowchart LR
+  A["Narcisismo resignado de los padres"] --> B["Sobreestimación del hijo"]
+  B --> C["His Majesty the Baby"]
+  D["Deseos y sueños no cumplidos"] --> C
+  C --> E["El hijo deberá cumplirlos"]
+```
+
+> **Definición de trabajo.** En la sobreestimación parental, el hijo funciona como depositario del narcisismo perdido de los padres y como promesa de restitución de una perfección resignada.
+
+El ejemplo evita una lectura individualista del narcisismo. La imagen del yo y sus ideales se constituyen en una trama de investiduras y expectativas de otros.
 
 ## El objeto como reencuentro
 
@@ -127,6 +143,8 @@ La distribución libidinal permite distinguir:
 
 Esta clasificación prepara el problema técnico de la transferencia. Para que el analista sea insertado en una serie amorosa previa, debe existir libido disponible para investir objetos.
 
+La clase del 06/08 marca esta diferencia como un **eje del parcial**. No se trata sólo de aprender una clasificación: la distribución de libido explica por qué ciertas neurosis pueden producir una transferencia analizable y otras presentan una dificultad estructural para hacerlo dentro de este modelo freudiano.
+
 ## Qué conviene poder responder
 
 Una respuesta sobre narcisismo debería articular:
@@ -139,4 +157,3 @@ Una respuesta sobre narcisismo debería articular:
 6. narcisismo primario y secundario;
 7. elecciones anaclítica y narcisista;
 8. consecuencias para la transferencia.
-

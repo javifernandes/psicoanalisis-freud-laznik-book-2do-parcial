@@ -77,6 +77,14 @@ Las notas aproximan lógicamente ambos momentos y, al mismo tiempo, advierten qu
 
 Conviene no convertir la serie en una cronología evolutiva rígida. Se trata también de posiciones lógicas que Freud construye para explicar cómo la libido llega a investir unidades.
 
+### Cómo se infiere el narcisismo primario
+
+El narcisismo primario no es observable directamente. Se reconstruye a partir de fenómenos posteriores. La clase recuperada destaca la \concept{sobreestimación parental}: los padres atribuyen al niño perfecciones, suspenden frente a él restricciones y esperan que realice deseos que ellos debieron resignar.
+
+> **Fórmula de Freud trabajada por la cátedra.** *His Majesty the Baby* condensa el lugar en el que los padres reinstalan su propio narcisismo abandonado.
+
+El ejemplo no demuestra una etapa visible en el bebé. Muestra cómo la hipótesis de una perfección narcisista originaria retorna en el modo en que los adultos invisten al hijo.
+
 ## El resto autoerótico
 
 La unificación no absorbe todas las pulsiones parciales. Las notas de la cátedra llaman *resto autoerótico* a aquello que no pasa al campo del yo y de los objetos unificados.
@@ -130,4 +138,3 @@ Una respuesta sobre constitución del yo debería incluir:
 6. persistencia de un resto autoerótico.
 
 El punto central no es narrar etapas, sino explicar por qué el narcisismo requiere una unidad que el autoerotismo todavía no posee.
-

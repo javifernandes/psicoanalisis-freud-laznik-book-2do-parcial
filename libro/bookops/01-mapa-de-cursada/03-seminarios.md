@@ -26,6 +26,8 @@ flowchart TD
   K --> L["Libido yoica"]
   K --> M["Libido de objeto"]
   M --> N["Elección de objeto"]
+  M --> U["Neurosis de transferencia"]
+  L --> V["Neurosis narcisistas"]
   I --> O["Ideal del Yo"]
   O --> P["Medida y displacer"]
   P --> Q["Represión"]
@@ -154,6 +156,8 @@ flowchart LR
 
 En el enamoramiento se engrandece el objeto y se empobrece el yo. En la retirada narcisista se concentra libido en el yo y disminuye el interés libidinal por el mundo.
 
+El \concept{narcisismo primario} no se observa directamente: se reconstruye como supuesto lógico. La sobreestimación parental permite inferirlo cuando los padres depositan en el niño la perfección y los deseos que debieron resignar, condensados en la fórmula *His Majesty the Baby*.
+
 ## 7. Campo parcial, unificación y resto
 
 El pasaje al narcisismo no unifica toda la sexualidad. Queda un resto autoerótico que no pasa al yo ni a los objetos unificados.
@@ -174,9 +178,23 @@ El objeto se elige siguiendo las funciones de cuidado, nutrición y protección 
 
 ### Narcisista
 
-El objeto vale por su relación con el propio yo: lo que uno es, fue, quisiera ser o aquello que fue parte de sí. El acento puede recaer en ser amado más que en amar.
+El objeto vale por su relación con el propio yo. Freud distingue cuatro modalidades:
+
+- lo que uno es;
+- lo que uno fue;
+- lo que uno quisiera ser;
+- la persona que alguna vez fue parte de uno, como el hijo.
+
+El acento puede recaer en ser amado más que en amar.
 
 Toda elección conserva rasgos de parcialidad y funciona como reencuentro con marcas anteriores.
+
+### Diferencia psicopatológica
+
+La clase del 06/08 marca como eje del parcial la diferencia entre:
+
+- \concept{neurosis de transferencia}: la libido conserva o recupera investiduras de objeto y puede dirigirse al analista;
+- \concept{neurosis narcisistas}: la libido se encuentra retirada hacia el yo, lo que dificulta constituir al analista como objeto transferencial.
 
 ## 9. Yo ideal e Ideal del Yo
 
@@ -187,6 +205,8 @@ Las notas distinguen tres términos:
 - **\concept{Ideal del Yo}:** instancia ordenadora que mide la distancia entre el yo actual y una exigencia ideal.
 
 El Ideal del Yo se arma con identificaciones y rasgos de las figuras parentales y sociales. Es condición de la represión porque determina qué satisfacciones resultan inconciliables y producen displacer.
+
+La clase recuperada agrega que el origen de la represión no se reduce a una prohibición externa: parte del *respeto del yo por sí mismo*, es decir, de una exigencia interiorizada desde la cual el yo mide sus satisfacciones.
 
 ```mermaid
 flowchart TD

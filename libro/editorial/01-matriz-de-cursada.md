@@ -144,6 +144,8 @@ La represión requiere una instancia desde la cual una satisfacción resulte inc
 - Su formación es condición de la represión.
 - Se sostiene en identificaciones y restos de las figuras parentales y sociales.
 - La identificación primordial se articula, sin identificarse, con el padre de la prehistoria personal de *Tótem y tabú*.
+- La sobreestimación parental y *His Majesty the Baby* permiten inferir el narcisismo primario y mostrar cómo los padres depositan en el hijo su narcisismo resignado.
+- El origen de la represión se formula como interior: parte del respeto del yo por sí mismo, organizado por el Ideal del Yo.
 
 **Teóricos**
 
@@ -305,4 +307,3 @@ La unidad del segundo parcial puede resumirse en cinco operaciones:
 3. **Constituir unidades y diferencias:** yo, narcisismo, objeto e ideal.
 4. **Formalizar el conflicto:** representante, represión, inconsciente y síntoma.
 5. **Actualizarlo en la cura:** transferencia, repetición, reelaboración y angustia.
-

@@ -58,6 +58,24 @@ El Ideal del Yo permite precisar esa otra exigencia: una satisfacción puede res
 
 Esto no significa que el Ideal ejecute mecánicamente cada represión ni que sea su única causa. Sitúa la estructura del conflicto: placer para una exigencia, displacer para otra.
 
+### El respeto del yo por sí mismo
+
+La clase recuperada formula que la represión no proviene simplemente de una prohibición exterior. Su condición parte del *respeto del yo por sí mismo*.
+
+```mermaid
+flowchart TD
+  A["Exigencias inicialmente exteriores"] --> B["Identificación e interiorización"]
+  B --> C["Ideal del Yo"]
+  C --> D["Respeto del Yo por sí mismo"]
+  D --> E{"Evaluación de la satisfacción pulsional"}
+  E -->|"Compatible"| F["Admisión"]
+  E -->|"Inconciliable y displacentera"| G["Represión"]
+```
+
+> **Fórmula de la cátedra.** La represión se vuelve internamente exigible cuando una satisfacción contradice la medida desde la cual el yo sostiene su propio valor.
+
+Esto no elimina el origen intersubjetivo del Ideal. Aquello que ahora opera desde el interior se construyó con identificaciones, códigos familiares y exigencias sociales.
+
 ## Articulación con *Tótem y tabú*
 
 La cátedra propone relacionar la identificación primordial y el Ideal del Yo con el padre muerto de *Tótem y tabú*.
@@ -139,4 +157,3 @@ Una respuesta sobre ideales debería:
 4. mostrar por qué su formación es condición del conflicto represivo;
 5. relacionarlo cuidadosamente con *Tótem y tabú*;
 6. evitar convertir los paralelismos de la cátedra en equivalencias conceptuales.
-

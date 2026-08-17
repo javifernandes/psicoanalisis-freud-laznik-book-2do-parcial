@@ -461,6 +461,46 @@ Bebes, gatos, humoristas y algunos criminales, estan ahí para que los amen, no 
 ------
 
 
+## Seminario — 06/08
+
+Resumen de Clase: Narcisismo y Constitución del Yo
+
+1. El Recorrido: De la Pulsión al Yo (Recapitulación)
+
+Evolución del Dualismo Pulsional:
+1er Dualismo: Autoconservación vs. Sexuales.
+Problema: El Yo también es objeto de la libido (Megalomanía/Psicosis).
+Nuevo "Pseudodualismo": Libido Yoica vs. Libido de Objeto.
+Dinámica de "Vasos Comunicantes":
+La libido es reversible: va y viene del Yo al objeto.
+Enamoramiento: El Yo se empobrece; el objeto se engrandece.
+Megalomanía: El Yo se engrandece; el mundo se empobrece.
+Diferencia Psicopatológica (Eje del Parcial):
+Neurosis de Transferencia: La libido inviste objetos (o fantasías). Son tratables por el psicoanálisis.
+Neurosis Narcisísticas (Psicosis): La libido está "atascada" en el Yo. No hay capacidad de transferencia porque no invisten al analista como objeto.
+
+2. El Desarrollo Libidinal y el "Nuevo Acto Psíquico"
+La Serie Lógica: Autoerotismo → Narcisismo → Elección de Objeto.
+Autoerotismo: Pulsiones parciales, cuerpo fragmentado, no hay unidad del Yo.
+NUEVO ACTO PSÍQUICO = Identificación: Necesario para pasar del autoerotismo al narcisismo. El Yo no es natural, se constituye identificándose con una imagen unificada.
+Narcisismo Primario: No es observable directamente; es una suposición lógica. Se infiere a través de la sobreestimación parental.
+
+3. Modalidades de Elección de Objeto
+A) Por Apuntalamiento (Modelo Anaclítico):
+Se ama según el modelo de los primeros cuidados (Madre nutricia / Padre protector).
+Implica una transferencia del narcisismo originario del niño sobre el objeto.
+B) De Tipo Narcisista (4 modalidades):
+Lo que uno mismo es: (Ligado al Yo Ideal).
+Lo que uno mismo fue: (Relacionado con el narcisismo primario).
+Lo que uno querría ser: (Ligado al Ideal del Yo).
+A la persona que fue parte del sí mismo: (Ejemplo: el hijo).
+Concepto: "His Majesty the Baby": Los padres proyectan su narcisismo abandonado en el hijo. El niño debe cumplir los sueños que los padres resignaron.
+
+4. Los Ideales y la Represión (Punto 3 de Freud)
+Origen de la Represión: No es externa; parte del "respeto del Yo por sí mismo".
+Ideal del Yo: Instancia simbólica y ordenadora. Funciona como una "vara de medir" para el yo actual.
+Función del Ideal: Aglutina y ordena (ej. códigos familiares o sociales). La represión ocurre para cumplir con este ideal.
+
 ## Seminario — 13/08
 
 Vimos hasta el punto 3 de Introducción del Narcisismo
