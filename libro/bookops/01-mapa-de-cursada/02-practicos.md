@@ -12,7 +12,7 @@ Los prácticos vuelven operativos los conceptos. Si teóricos reconstruye el gra
 
 ## 1. *Tres ensayos*: el síntoma como práctica sexual
 
-La oposición fundamental es pulsión e instinto. La sexualidad humana no se encuentra subordinada naturalmente a la reproducción y sus objetos y metas son variables.
+La oposición fundamental es \concept{pulsión} e *instinto*. La sexualidad humana no se encuentra subordinada naturalmente a la reproducción y sus objetos y metas son variables.
 
 Los cuatro términos de la pulsión son objeto, meta, fuente y esfuerzo. Toda pulsión es parcial porque parte de una zona recortada y obtiene una satisfacción localizada; ningún objeto garantiza una satisfacción completa.
 
@@ -22,10 +22,10 @@ La formulación destacada para el parcial es:
 
 Esto no significa que la persona neurótica sea clínicamente perversa. Significa que en el síntoma se satisfacen, de manera sustitutiva, pulsiones sexuales parciales que fueron reprimidas.
 
-El síntoma debe pensarse en dos registros:
+El \concept{síntoma} debe pensarse en dos registros:
 
-- **formación sustitutiva:** una representación sustituye a otra reprimida;
-- **satisfacción sustitutiva:** la exigencia pulsional encuentra un modo indirecto de satisfacción.
+- **\concept{Formación sustitutiva}:** una representación sustituye a otra reprimida;
+- **\concept{Satisfacción sustitutiva}:** la exigencia pulsional encuentra un modo indirecto de satisfacción.
 
 ## 2. Sexualidad infantil
 
@@ -45,16 +45,16 @@ La condición de la represión es que el displacer producido en otro sistema sea
 
 ### Fases
 
-1. **Represión primordial:** al representante psíquico de la pulsión se le deniega admisión a la conciencia; queda fijado.
-2. **Represión propiamente dicha:** recae sobre retoños asociados al representante.
-3. **Retorno de lo reprimido:** los retoños alcanzan expresión mediante sustituciones y deformaciones.
+1. **\concept{Represión primordial}:** al \concept{representante psíquico de la pulsión} se le deniega admisión a la conciencia; queda fijado.
+2. **\concept{Represión propiamente dicha}:** recae sobre retoños asociados al representante.
+3. **\concept{Retorno de lo reprimido}:** los retoños alcanzan expresión mediante sustituciones y deformaciones.
 
 La pulsión no es reprimida directamente. Se estudian los destinos de sus representantes y del monto de afecto.
 
 ### Características
 
-- **Individual:** cada retoño puede alcanzar una distancia diferente respecto de la conciencia.
-- **Móvil:** mantener la represión exige un gasto continuo.
+- **\concept{Individual}:** cada retoño puede alcanzar una distancia diferente respecto de la conciencia.
+- **\concept{Móvil}:** mantener la represión exige un gasto continuo.
 
 ### Neurosis de transferencia
 
@@ -137,9 +137,9 @@ El enamoramiento analítico es genuino, infantil como cualquier amor y producido
 
 ### Recordar, repetir y reelaborar
 
-- **Recordar:** llenar lagunas y vencer resistencias de la represión.
-- **Repetir:** actuar en lugar de recordar; recordar sin texto.
-- **Reelaborar:** atravesar repetidamente las resistencias; es el trabajo que produce el mayor efecto alterador.
+- **\concept{Recordar}:** llenar lagunas y vencer resistencias de la represión.
+- **\concept{Repetir}:** actuar en lugar de recordar; recordar sin texto.
+- **\concept{Reelaborar}:** atravesar repetidamente las resistencias; es el trabajo que produce el mayor efecto alterador.
 
 El manejo de la transferencia permite convertir la compulsión a repetir en motivo para recordar.
 
@@ -155,4 +155,3 @@ El manejo de la transferencia permite convertir la compulsión a repetir en moti
 - La transferencia es motor y obstáculo.
 - Repetir es recordar en acto.
 - La reelaboración recae sobre las resistencias.
-

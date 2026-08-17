@@ -6,7 +6,7 @@ Los teóricos estudian qué ocurre con el modelo freudiano cuando la sexualidad 
 
 El recorrido no consiste en sumar definiciones. Cada concepto obliga a reformular el anterior:
 
-> pulsión → representante psíquico → represión → sistema inconsciente → retorno → transferencia.
+> \concept{Pulsión} → \concept{representante psíquico de la pulsión} → \concept{represión} → \concept{sistema inconsciente} → \concept{retorno de lo reprimido} → \concept{transferencia}.
 
 ## 1. La pulsión desnaturaliza la sexualidad
 
@@ -16,11 +16,14 @@ La pulsión explica cómo el cuerpo llega a constituirse como sede de satisfacci
 
 El circuito trabajado en clase puede representarse así:
 
-```text
-fuente → rodeo del objeto → retorno a la fuente
+```mermaid
+flowchart LR
+  A["Fuente pulsional"] --> B["Rodeo del objeto"]
+  B --> C["Retorno a la fuente"]
+  C -->|"Nueva excitación"| A
 ```
 
-El objeto funciona como instrumento contingente del recorrido. Puede adquirir privilegio mediante una fijación, pero no constituye un complemento natural e invariable.
+El \concept{objeto pulsional} funciona como *instrumento contingente* del recorrido. Puede adquirir privilegio mediante una \concept{fijación}, pero no constituye un complemento natural e invariable.
 
 ### Pulsión y estímulo
 
@@ -31,7 +34,7 @@ El objeto funciona como instrumento contingente del recorrido. Puede adquirir pr
 | Huida | Imposible | Posible |
 | Tramitación | Exige trabajo psíquico y recorrido | Puede cancelarse mediante una acción apropiada |
 
-La pulsión es un concepto fronterizo entre lo anímico y lo somático y una medida de la exigencia de trabajo impuesta a lo psíquico por su trabazón con el cuerpo.
+La \concept{pulsión} es un \concept{concepto fronterizo} entre lo anímico y lo somático y una \concept{medida de la exigencia de trabajo} impuesta a lo psíquico por su trabazón con el cuerpo.
 
 ## 2. Términos y destinos de la pulsión
 
@@ -59,7 +62,7 @@ La represión busca evitar displacer. Su esencia consiste en rechazar algo de la
 
 ### Represión primordial
 
-La represión primordial constituye una anterioridad lógica. En las notas de la cátedra aparece como operación fundante mediante la cual se fija o inscribe el representante psíquico de la pulsión.
+La \concept{represión primordial} constituye una *anterioridad lógica*. En las notas de la cátedra aparece como operación fundante mediante la cual se fija o inscribe el \concept{representante psíquico de la pulsión}.
 
 Ese representante:
 
@@ -169,8 +172,11 @@ El paciente no recuerda todo lo reprimido: lo actúa y repite sin saber que repi
 
 El objetivo no es prohibir la repetición, sino transformarla en material de trabajo:
 
-```text
-repetición en acto → trabajo de las resistencias → recuerdo y elaboración
+```mermaid
+flowchart LR
+  A["Repetición en acto"] --> B["Trabajo de las resistencias"]
+  B --> C["Recuerdo"]
+  C --> D["Reelaboración"]
 ```
 
 La neurosis de transferencia reproduce el conflicto dentro del análisis, donde puede volverse tratable. La reelaboración requiere tiempo: conocer intelectualmente una resistencia no equivale a haberla atravesado.
@@ -178,4 +184,3 @@ La neurosis de transferencia reproduce el conflicto dentro del análisis, donde 
 ## Eje de examen
 
 Una respuesta integrada debería poder mostrar que la transferencia no es un tema técnico separado de la metapsicología. La pulsión que encontró satisfacción sustitutiva en fantasía y síntoma actualiza esa búsqueda en la relación con el analista; por eso la transferencia es simultáneamente repetición, resistencia y condición de la cura.
-

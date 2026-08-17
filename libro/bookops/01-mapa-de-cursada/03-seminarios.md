@@ -30,8 +30,10 @@ Nadie renuncia fácilmente a una fuente de placer. Al crecer, el juego no desapa
 
 El motor del fantaseo son deseos insatisfechos. La fantasía enlaza:
 
-```text
-ocasión presente → satisfacción o deseo infantil → figuración futura
+```mermaid
+flowchart LR
+  A["Ocasión presente"] --> B["Deseo infantil"]
+  B --> C["Figuración de la satisfacción futura"]
 ```
 
 La creación literaria transforma el fantaseo privado mediante encubrimiento y variación. Además ofrece una prima de placer formal o estético que permite acceder a satisfacciones que, presentadas directamente, producirían rechazo o vergüenza.
@@ -42,7 +44,7 @@ La fantasía inconsciente participa en la formación del síntoma y puede funcio
 
 Los niños investigan porque encuentran una falta en el saber. Preguntan por su origen y reciben respuestas que no concuerdan con las exigencias y sensaciones de su propio cuerpo.
 
-La “ignorancia que no se deja sustituir” no equivale a falta de información accidental. Surge de la imposibilidad de disponer de un saber instintivo completo sobre la sexualidad.
+La \concept{ignorancia que no se deja sustituir} no equivale a falta de información accidental. Surge de la imposibilidad de disponer de un saber instintivo completo sobre la sexualidad.
 
 Las teorías son falsas para el conocimiento adulto y contienen fragmentos de verdad respecto de la organización sexual infantil.
 
@@ -91,8 +93,10 @@ Freud retira el narcisismo del campo exclusivo de la perversión y lo sitúa com
 
 La serie trabajada es:
 
-```text
-autoerotismo → narcisismo → elección de objeto
+```mermaid
+flowchart LR
+  A["Autoerotismo"] -->|"Nuevo acto psíquico"| B["Narcisismo"]
+  B --> C["Elección de objeto"]
 ```
 
 ### Autoerotismo
@@ -112,8 +116,10 @@ Una identificación permite constituir al yo como primer objeto unificado de la 
 
 No son dos energías heterogéneas. Son localizaciones de una misma libido, que puede desplazarse económicamente:
 
-```text
-yo ⇄ objeto
+```mermaid
+flowchart LR
+  A["Yo"] -->|"Libido de objeto"| B["Objeto"]
+  B -->|"Retirada libidinal"| A
 ```
 
 En el enamoramiento se engrandece el objeto y se empobrece el yo. En la retirada narcisista se concentra libido en el yo y disminuye el interés libidinal por el mundo.
@@ -146,18 +152,17 @@ Toda elección conserva rasgos de parcialidad y funciona como reencuentro con ma
 
 Las notas distinguen tres términos:
 
-- **yo actual:** estado presente del yo;
-- **yo ideal:** imagen de completitud que conserva el narcisismo infantil;
-- **Ideal del Yo:** instancia ordenadora que mide la distancia entre el yo actual y una exigencia ideal.
+- **\concept{Yo actual}:** estado presente del yo;
+- **\concept{Yo ideal}:** imagen de completitud que conserva el narcisismo infantil;
+- **\concept{Ideal del Yo}:** instancia ordenadora que mide la distancia entre el yo actual y una exigencia ideal.
 
 El Ideal del Yo se arma con identificaciones y rasgos de las figuras parentales y sociales. Es condición de la represión porque determina qué satisfacciones resultan inconciliables y producen displacer.
 
-```text
-Ideal del Yo
-      ↓ mide
-distancia entre yo actual y yo ideal
-      ↓
-displacer → represión
+```mermaid
+flowchart TD
+  A["Ideal del Yo"] -->|"Mide"| B["Distancia entre Yo actual y Yo ideal"]
+  B --> C["Displacer"]
+  C --> D["Represión"]
 ```
 
 La identificación primordial con el padre de la prehistoria personal permite articular esta construcción con *Tótem y tabú*. Se trata de un paralelismo entre espacios de la cátedra, no de una identidad entre conceptos.
@@ -184,4 +189,3 @@ Este capítulo deberá completarse con la Conferencia 25 y las últimas clases.
 ## Eje de examen
 
 Seminarios permite construir una respuesta que una módulos 3 y 4: la pulsión exige trabajo; fantasías y teorías sexuales constituyen respuestas; la identificación forma una unidad yoica y un ideal; desde esa organización ciertas satisfacciones devienen inconciliables y pueden ser reprimidas. Narcisismo no es entonces un tema intermedio aislado, sino una condición para comprender el conflicto y la represión.
-
