@@ -21,10 +21,10 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 | *El creador literario y el fantaseo* | 1908 | 127–135 | Seminarios | Juego, fantasía, deseo insatisfecho, temporalidad y placer previo. |
 | *Experiencias y ejemplos…: Pies (zapatos) abochornados* | 1913 | 199–200, tomo XIII | Seminarios | Teoría sexual infantil reprimida, inhibición, saber y transferencia. |
 | Conferencia 26, *La teoría de la libido y el narcisismo* | 1917 | 375–391 | Seminarios | Economía de la libido y oposición libido yoica/libido de objeto. |
-| *Tres ensayos de teoría sexual*, cap. III, §5 | 1905 | 202–210 | Seminarios | Hallazgo de objeto como reencuentro y continuidad con el apuntalamiento. |
+| [*Tres ensayos de teoría sexual*, cap. III, §5](02-tres-ensayos-de-teoria-sexual.md) | 1905 | 202–210 | Seminarios | Hallazgo de objeto como reencuentro y continuidad con el apuntalamiento. |
 | *Psicología de las masas y análisis del yo*, VII | 1921 | 99–104 | Seminarios | Identificación, formación del yo e Ideal del Yo. |
-| *Mis tesis sobre el papel de la sexualidad en la etiología de las neurosis* | 1906 | 263–271 | Prácticos | Revisión de la teoría traumática y nuevo estatuto de la sexualidad infantil. |
-| *Tres ensayos de teoría sexual*, cap. I §§4–5 y cap. II | 1905 | 148–154, 157–188 | Prácticos | Perversión, síntoma, pulsiones parciales, sexualidad infantil y latencia. |
+| [*Mis tesis sobre el papel de la sexualidad en la etiología de las neurosis*](03-mis-tesis-sobre-el-papel-de-la-sexualidad.md) | 1906 | 263–271 | Prácticos | Revisión de la teoría traumática y nuevo estatuto de la sexualidad infantil. |
+| [*Tres ensayos de teoría sexual*, cap. I §§4–5 y cap. II](02-tres-ensayos-de-teoria-sexual.md) | 1905 | 148–154, 157–188 | Prácticos | Perversión, síntoma, pulsiones parciales, sexualidad infantil y latencia. |
 | *Fragmento de análisis de un caso de histeria (Dora)* | 1905 | 21–22, 36–38, 42–43, 46 | Prácticos | Síntoma, sexualidad infantil, fantasía y práctica sexual del enfermo. |
 
 ## Módulo 4 — Represión, inconsciente, transferencia, ganancia y angustia
@@ -88,4 +88,3 @@ Si hubiera que reconstruir la lógica completa con pocos textos:
 10. Conferencia 25, *La angustia*.
 
 Este orden no es estrictamente cronológico. Sigue la construcción conceptual que realiza la cátedra.
-

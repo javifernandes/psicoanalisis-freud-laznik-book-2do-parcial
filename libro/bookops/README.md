@@ -17,6 +17,8 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 ### Textos y ejes
 
 - [Tabla maestra de textos de Freud](02-textos-y-ejes/01-tabla-maestra.md)
+- [Tres ensayos de teoría sexual](02-textos-y-ejes/02-tres-ensayos-de-teoria-sexual.md)
+- [Mis tesis sobre el papel de la sexualidad](02-textos-y-ejes/03-mis-tesis-sobre-el-papel-de-la-sexualidad.md)
 
 ### Síntesis integrada
 
@@ -37,11 +39,14 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [Amor de transferencia y abstinencia](03-sintesis-integrada/14-amor-de-transferencia-y-abstinencia.md)
 - [Recordar, repetir y reelaborar](03-sintesis-integrada/15-recordar-repetir-y-reelaborar.md)
 
+### Referencia rápida
+
+- [Inventario de distinciones, series y enumeraciones](04-referencia-rapida/01-inventario-de-enumeraciones.md)
+
 ## Próximas partes
 
-1. Completar la síntesis conceptual integrada.
+1. Completar las fichas de textos.
 2. Casos, escenas y diagramas.
-3. Fichas de textos.
-4. Entrenamiento para el parcial.
+3. Entrenamiento para el parcial.
 
 La zona de angustia y ganancia de la enfermedad permanece provisional hasta incorporar las clases finales.
