@@ -60,10 +60,15 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 
 - [Inventario de distinciones, series y enumeraciones](04-referencia-rapida/01-inventario-de-enumeraciones.md)
 
+### Entrenamiento para el parcial
+
+- [Relevamiento de preguntas y prioridades](05-entrenamiento-para-el-parcial/00-relevamiento-y-prioridades.md)
+- [Banco depurado por los cinco arcos](05-entrenamiento-para-el-parcial/01-banco-depurado-por-arcos.md)
+- [Nota breve para construir una respuesta](05-entrenamiento-para-el-parcial/02-nota-breve-para-responder.md)
+
 ## Próximas partes
 
 1. Completar fichas complementarias de textos breves y conferencias.
 2. Casos, escenas y diagramas.
-3. Entrenamiento para el parcial.
 
 La zona de ganancia de la enfermedad permanece provisional hasta incorporar las clases finales correspondientes.
