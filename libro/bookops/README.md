@@ -33,6 +33,8 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [Sobre la dinámica de la transferencia](02-textos-y-ejes/15-sobre-la-dinamica-de-la-transferencia.md)
 - [Puntualizaciones sobre el amor de transferencia](02-textos-y-ejes/16-puntualizaciones-sobre-el-amor-de-transferencia.md)
 - [Recordar, repetir y reelaborar](02-textos-y-ejes/17-recordar-repetir-y-reelaborar.md)
+- [Sobre el psicoanálisis silvestre](02-textos-y-ejes/18-sobre-el-psicoanalisis-silvestre.md)
+- [Conferencia 25: La angustia](02-textos-y-ejes/19-conferencia-25-la-angustia.md)
 
 ### Síntesis integrada
 
@@ -60,7 +62,7 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 
 ## Próximas partes
 
-1. Completar las fichas de textos.
+1. Completar fichas complementarias de textos breves y conferencias.
 2. Casos, escenas y diagramas.
 3. Entrenamiento para el parcial.
 

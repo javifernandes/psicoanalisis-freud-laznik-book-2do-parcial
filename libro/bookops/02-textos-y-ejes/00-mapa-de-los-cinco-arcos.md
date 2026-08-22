@@ -120,9 +120,9 @@ flowchart LR
 
 ### Textos centrales
 
-1. *Sobre el psicoanálisis silvestre*.
-2. Conferencia 25, *La angustia*.
-3. *La represión*, como texto bisagra.
+1. [*Sobre el psicoanálisis silvestre*](18-sobre-el-psicoanalisis-silvestre.md).
+2. [Conferencia 25, *La angustia*](19-conferencia-25-la-angustia.md).
+3. [*La represión*](12-la-represion.md), como texto bisagra.
 
 ### Movimiento
 
