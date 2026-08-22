@@ -31,12 +31,12 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 
 | Texto | Año | Páginas de guía | Espacios | Eje de la cátedra |
 |---|---:|---|---|---|
-| *La represión* | 1915 | 141–152 | Teóricos, prácticos y seminarios | Condición, fases y características de la represión; representación y monto de afecto. |
-| *Lo inconsciente*, cap. III | 1915 | 173–176 | Teóricos | Sentimientos inconscientes y destinos del afecto. |
-| *Lo inconsciente*, caps. II, IV, V, VI y VII | 1915 | 168–172, 177–184, 187, 197–198 | Teóricos | Multivocidad, tópica y dinámica, propiedades del sistema y representación de objeto. |
-| *Nota sobre el concepto de lo inconsciente en psicoanálisis* | 1912 | 271–277 | Prácticos | Sentidos descriptivo, dinámico y sistemático de lo inconsciente. |
-| *Lo inconsciente*, cap. II | 1915 | 168–172 | Prácticos | Punto de vista tópico y pasaje entre sistemas. |
-| *Lo inconsciente*, cap. IV | 1915 | 177–186, 197–199 | Prácticos | Sustracción de investidura, contrainvestidura y mecanismos de represión. |
+| [*La represión*](12-la-represion.md) | 1915 | 141–152 | Teóricos, prácticos y seminarios | Condición, fases y características de la represión; representación y monto de afecto. |
+| [*Lo inconsciente*, cap. III](14-lo-inconsciente.md) | 1915 | 173–176 | Teóricos | Sentimientos inconscientes y destinos del afecto. |
+| [*Lo inconsciente*, caps. II, IV, V, VI y VII](14-lo-inconsciente.md) | 1915 | 168–172, 177–184, 187, 197–198 | Teóricos | Multivocidad, tópica y dinámica, propiedades del sistema y representación de objeto. |
+| [*Nota sobre el concepto de lo inconsciente en psicoanálisis*](13-nota-sobre-el-concepto-de-lo-inconsciente.md) | 1912 | 271–277 | Prácticos | Sentidos descriptivo, dinámico y sistemático de lo inconsciente. |
+| [*Lo inconsciente*, cap. II](14-lo-inconsciente.md) | 1915 | 168–172 | Prácticos | Punto de vista tópico y pasaje entre sistemas. |
+| [*Lo inconsciente*, cap. IV](14-lo-inconsciente.md) | 1915 | 177–186, 197–199 | Prácticos | Sustracción de investidura, contrainvestidura y mecanismos de represión. |
 | [*Tótem y tabú*, cap. IV §§5–6](11-totem-y-tabu-padre-muerto-y-ley.md) | 1913 | 142–152 | Teóricos y prácticos | Padre muerto, ley, culpa, obediencia retrospectiva y fundación. |
 | Conferencias 6 y 9 | 1916–17 | 93, 135 | Teóricos | Ejemplos de formación y eficacia de lo inconsciente. |
 | Conferencias 22 y 23 | 1917 | 310, 329 | Teóricos | Fijación, regresión y caminos de formación de síntoma. |

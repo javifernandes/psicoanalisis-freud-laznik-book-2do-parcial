@@ -27,6 +27,9 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [Introducción del narcisismo](02-textos-y-ejes/09-introduccion-del-narcisismo.md)
 - [Psicología de las masas: identificación](02-textos-y-ejes/10-psicologia-de-las-masas-identificacion.md)
 - [Tótem y tabú: padre muerto y ley](02-textos-y-ejes/11-totem-y-tabu-padre-muerto-y-ley.md)
+- [La represión](02-textos-y-ejes/12-la-represion.md)
+- [Nota sobre el concepto de lo inconsciente](02-textos-y-ejes/13-nota-sobre-el-concepto-de-lo-inconsciente.md)
+- [Lo inconsciente](02-textos-y-ejes/14-lo-inconsciente.md)
 
 ### Síntesis integrada
 

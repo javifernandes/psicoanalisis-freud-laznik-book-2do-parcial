@@ -74,9 +74,9 @@ flowchart LR
 
 ### Textos centrales
 
-1. *La represión*.
-2. *Nota sobre el concepto de lo inconsciente en psicoanálisis*.
-3. *Lo inconsciente*.
+1. [*La represión*](12-la-represion.md).
+2. [*Nota sobre el concepto de lo inconsciente en psicoanálisis*](13-nota-sobre-el-concepto-de-lo-inconsciente.md).
+3. [*Lo inconsciente*](14-lo-inconsciente.md).
 
 ### Movimiento
 
