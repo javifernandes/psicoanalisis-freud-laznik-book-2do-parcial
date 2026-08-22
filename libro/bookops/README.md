@@ -16,9 +16,14 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 
 ### Textos y ejes
 
+- [Mapa de los cinco arcos de lectura](02-textos-y-ejes/00-mapa-de-los-cinco-arcos.md)
 - [Tabla maestra de textos de Freud](02-textos-y-ejes/01-tabla-maestra.md)
 - [Tres ensayos de teoría sexual](02-textos-y-ejes/02-tres-ensayos-de-teoria-sexual.md)
 - [Mis tesis sobre el papel de la sexualidad](02-textos-y-ejes/03-mis-tesis-sobre-el-papel-de-la-sexualidad.md)
+- [Pulsiones y destinos de pulsión](02-textos-y-ejes/05-pulsiones-y-destinos-de-pulsion.md)
+- [El creador literario y el fantaseo](02-textos-y-ejes/06-el-creador-literario-y-el-fantaseo.md)
+- [Sobre las teorías sexuales infantiles](02-textos-y-ejes/07-sobre-las-teorias-sexuales-infantiles.md)
+- [La perturbación psicógena de la visión](02-textos-y-ejes/08-la-perturbacion-psicogena-de-la-vision.md)
 
 ### Síntesis integrada
 

@@ -13,12 +13,12 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 | Conferencias 20, 21, 22 y 23 | 1917 | 286–287, 299–300, 310, 322, 329 | Teóricos | Sexualidad infantil, libido, fijación, regresión y formación de síntoma. |
 | *Más allá del principio de placer*, cap. V | 1920 | 41–42 | Teóricos | Límite del principio de placer, constancia y problema de la ligadura. |
 | *Cinco conferencias sobre psicoanálisis*, IV | 1910 | 36–44 | Teóricos | Sexualidad infantil, zonas erógenas, autoerotismo y diques. |
-| *Sobre las teorías sexuales infantiles* | 1908 | 187–201 | Teóricos y seminarios | Investigación sexual, falta de saber, premisa universal del pene y teorías típicas. |
+| [*Sobre las teorías sexuales infantiles*](07-sobre-las-teorias-sexuales-infantiles.md) | 1908 | 187–201 | Teóricos y seminarios | Investigación sexual, falta de saber, premisa universal del pene y teorías típicas. |
 | *El esclarecimiento sexual del niño* | 1907 | 117–119 | Teóricos y seminarios | Límite de la información adulta frente a la investigación sexual infantil. |
-| *Pulsiones y destinos de pulsión* | 1915 | 113–122; 128; 132–134 | Teóricos y prácticos | Concepto de pulsión, cuatro términos, dualismo y destinos pulsionales. |
-| *La perturbación psicógena de la visión* | 1910 | 209–216 | Teóricos y seminarios | Órgano de doble función, conflicto entre pulsiones yoicas y sexuales. |
+| [*Pulsiones y destinos de pulsión*](05-pulsiones-y-destinos-de-pulsion.md) | 1915 | 113–122; 128; 132–134 | Teóricos y prácticos | Concepto de pulsión, cuatro términos, dualismo y destinos pulsionales. |
+| [*La perturbación psicógena de la visión*](08-la-perturbacion-psicogena-de-la-vision.md) | 1910 | 209–216 | Teóricos y seminarios | Órgano de doble función, conflicto entre pulsiones yoicas y sexuales. |
 | *Introducción del narcisismo* | 1914 | 71–98 | Teóricos y seminarios | Constitución del yo, libido yoica y de objeto, elección de objeto e ideales. |
-| *El creador literario y el fantaseo* | 1908 | 127–135 | Seminarios | Juego, fantasía, deseo insatisfecho, temporalidad y placer previo. |
+| [*El creador literario y el fantaseo*](06-el-creador-literario-y-el-fantaseo.md) | 1908 | 127–135 | Seminarios | Juego, fantasía, deseo insatisfecho, temporalidad y placer previo. |
 | *Experiencias y ejemplos…: Pies (zapatos) abochornados* | 1913 | 199–200, tomo XIII | Seminarios | Teoría sexual infantil reprimida, inhibición, saber y transferencia. |
 | Conferencia 26, *La teoría de la libido y el narcisismo* | 1917 | 375–391 | Seminarios | Economía de la libido y oposición libido yoica/libido de objeto. |
 | [*Tres ensayos de teoría sexual*, cap. III, §5](02-tres-ensayos-de-teoria-sexual.md) | 1905 | 202–210 | Seminarios | Hallazgo de objeto como reencuentro y continuidad con el apuntalamiento. |
