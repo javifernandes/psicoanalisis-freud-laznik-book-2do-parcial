@@ -39,7 +39,7 @@ El monto aparece con una cualidad distinta, como culpa, vergüenza o malestar, d
 
 El monto se muda en \concept{angustia}. La representación puede ser sustituida mientras el cuerpo manifiesta palpitaciones, sudoración o agitación sin un texto consciente que explique esa intensidad.
 
-> **Cautela.** Este capítulo sigue la articulación de *La represión*. La teoría completa de la angustia requiere todavía la Conferencia 25 y el cierre de las clases.
+Esta articulación se completa en [Angustia y serie de las neurosis de transferencia](16-angustia-y-serie-de-las-neurosis-de-transferencia.md), a partir de la Conferencia 25 y la clase final de seminarios.
 
 ## Formación sustitutiva, síntoma y retorno
 
@@ -155,4 +155,3 @@ Una respuesta integrada debería:
 4. explicar el síntoma como compromiso;
 5. utilizar la fobia para seguir representación y angustia;
 6. mostrar por qué el retorno prepara el problema de la transferencia.
-

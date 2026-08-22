@@ -38,6 +38,7 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [Transferencia: motor, obstáculo y resistencia](03-sintesis-integrada/13-transferencia-motor-obstaculo-y-resistencia.md)
 - [Amor de transferencia y abstinencia](03-sintesis-integrada/14-amor-de-transferencia-y-abstinencia.md)
 - [Recordar, repetir y reelaborar](03-sintesis-integrada/15-recordar-repetir-y-reelaborar.md)
+- [Angustia y serie de las neurosis de transferencia](03-sintesis-integrada/16-angustia-y-serie-de-las-neurosis-de-transferencia.md)
 
 ### Referencia rápida
 
@@ -49,4 +50,4 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 2. Casos, escenas y diagramas.
 3. Entrenamiento para el parcial.
 
-La zona de angustia y ganancia de la enfermedad permanece provisional hasta incorporar las clases finales.
+La zona de ganancia de la enfermedad permanece provisional hasta incorporar las clases finales correspondientes.

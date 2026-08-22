@@ -636,3 +636,132 @@ Esto sigue igual
 
 Lo Nuevo
 - Surge de la Represión y de la Pulsión !
+
+
+## Seminario — 20/08
+
+Repaso 1ra versión de la angustia:
+- Sin conflicto psíquico
+- Alteraciones de la Sexualidad "actual" (no infantil)
+- Sin representación de la cantidad. Puramente somática
+- No opera la Represión
+- Acá Freud todavía conceptualizaba la Sexualidad = genitalidad.
+Ergo: no tratable por PSA.
+
+Al introducir su nueva teoría de la sexualidad (psicosexualidad), y con ella Pulsión, Freud se ve "obligado" lógicamente a replantear su teoría de la angustia !
+
+Texto "Sobre el Psicoanálisis Silvestre".
+Una mujer separada acude a un médico por sentirse angustiada. El médico, dice Freud -yo resumo- que hace PSA "silvestre" porque le da como consejo 3 opciones: volver con su ex, conseguirse un amante, o autosatiscerce. El médico sólo toma en forma sesgada la base "sexual" de la angustia, sin entender los conceptos fundamentales de psicoanalisis (pulsión, represión, sexualidad como no genitalidad).
+
+
+Con la Pulsión Freud debe repensar varias cosas
+- Etiología de los Sintomas (tema de práctico)
+- Caida de la teoría de la Seducción (adulto seductor)
+- Repensar el Aparato Psíquico (representante de la pulsión, investiduras y pasaja, fuerzas de atracción/repulsión)
+- Sintomas como Satisfacción Sustitutiva
+- Puede implicar placer y displacer al mismo tiempo
+- Más... ahora como entra la Angustia (angustia pura, no Neurosis de Angustia) en el Dispositivo Analítico.
+
+Nota al margen: en la Represión el conflicto es entre el Yo y la Pulsión !
+
+Spoiler:
+La Angustia pasa de estar fuera del alcance del PSA a un rol central en las Neurosis de Transferencia ! (freud lo mantedrá así por muchos años. hasta el final?)
+
+Volvemos al texto
+"La Represión"
+
+Diagrama
+
+Moción Pulsional
+   destinos
+       - sublimación
+       - trastorno en lo contrario
+       - vuelta sobre si mismo
+       - Represión <acá nos centramos>
+            - Representación => ICC
+            - Monto de Afecto. Destinos
+                - Sofocado
+                - Coloreado como afecto
+                - (se muda en) Angustia ===> SINTOMA !
+
+Pag 147 arranca lo más importante para Seminarios !
+
+notas:
+- Coloreado como afecto: aparece _cualitativamente_ como procesos que devienen registrables a las sensaciones como culpa, ira, enojo, etc
+- cuando hablamos de se muda en "angustia" esa "angustia" es lo de siempre que ya vimos, palpitaciones, sudoración, dificultad para respirar. Es un afecto displacentero que se siente en el cupero tomado completamente por el factor cuantitativo.
+
+
+1er Movimiento de la 2da Teoría de la Angustia
+----
+- hay Represión: no es más un proceso somático, es psíquico causado/promovido por la represión
+- Angustia:
+    - es el Afecto por excelencia (por eso separada de los otros afectos)
+    - Modo en que el factor cuantitativo de la función afecta al Yo.
+
+Camino Inverso:
+Sintoma <- Angustia <- MA <- Represión < Moción Pulsional
+
+Formula ! (IMPORTANTE)
+Moción Pulsional -> Represión -> Angustia -> Sintoma
+                                    ^
+                                    en el centro de las Neuro. de Transf
+
+Juanito
+(podría entrar para articular o mostrar toda esta serie en un ejemplo. Aunque no hace falta saber toda la historia)
+Hay 2 Juanitos, el del lobo y el del caballo. Son muy similares, solo cambia la moción hacia el padre.
+
+
+           -> Moc Libidinal  ->                            -> caballo
+Moción                      Represión -> Angustia  => Fobia
+Pulsional  -> Moc agresiva   ->            Flotante     ^  -> lobos
+(hacia el padre)                                        |
+                                                        | Sintoma !
+                                                    en las fobias son
+                                                    todos los movimientos
+                                                    y artilugios para
+                                                    evitar (caballo o lobos)
+
+Serie Común de la 2da Versión de la Angustia <IMPORTANTE>
+
+Diagrama
+
+Exigencia -> Represión -> Angustia -> Sintoma
+Pulsional
+----------------------------------------------
+                    |
+                    V
+                Neurosis de Transferencia
+
+Notas:
+- el síntoma acota/evita/liga la angustia
+- la forma es distinta para cada neurosis (obsesiva, de ang, histerica), pero la serie es la misma.
+
+-------
+
+Conferencia 25
+=====
+
+Angustia Realista:
+- "Reacción anímica frente al peligro"
+  organiza la acción de huida
+  ligada a un peligro real (ej incendio)
+
+Angustia
+- Puede funcionar como una señal o apronte si su desarrollo es limitado.
+  COmo una anticipación o preparación
+
+
+Angustia
+  - Acción de huida
+  - o, en poca medida: preparación/antipicación
+Ambas, ANTE UN PELIGRO !
+
+F se pregunta: Hay algo común entre Angustia Realista y Neurótica ?
+
+Factor comun
+- Angustia es ANTE ALGO
+- Peligro: en Neurosis es la Moción Pulsional
+- Se quiere huir !
+Ejemplo Juanito. La fobia muestra la serie !
+
+La angustia Neurótica es también ante algo. El peligro = Exigencia pulsional.

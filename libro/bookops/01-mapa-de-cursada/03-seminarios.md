@@ -217,9 +217,7 @@ flowchart TD
 
 La identificación primordial con el padre de la prehistoria personal permite articular esta construcción con *Tótem y tabú*. Se trata de un paralelismo entre espacios de la cátedra, no de una identidad entre conceptos.
 
-## 10. Angustia: comienzo del nuevo problema
-
-Las notas disponibles alcanzan a formular el viraje, pero no su desarrollo completo.
+## 10. Angustia: de la cantidad somática a la serie neurótica
 
 ### Primera teoría
 
@@ -234,7 +232,20 @@ Con la pulsión y la represión, representación y monto de afecto pueden recibi
 
 Lo nuevo es que la angustia ya no queda fuera del conflicto psíquico: puede surgir como consecuencia del destino impuesto por la represión.
 
-Este capítulo deberá completarse con la Conferencia 25 y las últimas clases.
+La clase del 20/08 fija la serie común de las neurosis de transferencia:
+
+```mermaid
+flowchart LR
+  A["Exigencia pulsional"] --> B["Represión"]
+  B --> C["Angustia"]
+  C --> D["Síntoma"]
+```
+
+El síntoma intenta ligar, acotar o evitar la angustia. La forma cambia en cada neurosis, pero la serie permanece. La fobia lo muestra con especial claridad: liga la angustia a un peligro exterior y permite organizar medidas de evitación frente a una exigencia pulsional interna.
+
+La Conferencia 25 agrega el factor común entre angustia realista y neurótica: ambas son respuestas *ante un peligro*. En la primera, el peligro es exterior; en la segunda, es la propia exigencia pulsional.
+
+El desarrollo completo se encuentra en [Angustia y serie de las neurosis de transferencia](../03-sintesis-integrada/16-angustia-y-serie-de-las-neurosis-de-transferencia.md).
 
 ## Eje de examen
 

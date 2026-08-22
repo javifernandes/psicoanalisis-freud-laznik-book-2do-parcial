@@ -276,19 +276,46 @@ Esta última pareja queda pendiente de cotejo con la transcripción completa de 
 2. Interpretación de ocurrencias para colegir lo reprimido.
 3. Asociación libre y trabajo sobre resistencias en la superficie psíquica.
 
-## Angustia — inventario provisional
+## Angustia
 
-### Dos grandes formulaciones vistas hasta ahora
+### Dos grandes formulaciones
 
 1. Primera teoría: excitación sexual somática no ligada, sin represión.
-2. Articulación metapsicológica: destino del monto de afecto bajo represión.
+2. Segunda formulación: destino del monto de afecto bajo represión y lugar central en las neurosis de transferencia.
 
 ### Dos dimensiones que persisten
 
 1. Manifestación somática.
 2. Falta de representación o texto consciente.
 
-El inventario deberá completarse después de trabajar íntegramente la Conferencia 25 y las clases finales.
+### Tres destinos del monto de afecto
+
+1. Sofocación.
+2. Afecto cualitativamente coloreado.
+3. Mudanza en angustia.
+
+### Serie común de las neurosis de transferencia
+
+1. Exigencia pulsional.
+2. Represión.
+3. Angustia.
+4. Síntoma.
+
+### Tres funciones del síntoma respecto de la angustia
+
+1. Ligarla.
+2. Acotarla.
+3. Evitar su desarrollo.
+
+### Dos formas de peligro en la Conferencia 25
+
+1. Angustia realista: peligro exterior.
+2. Angustia neurótica: exigencia pulsional interna.
+
+### Dos posibles desarrollos de la angustia realista
+
+1. Desarrollo limitado: señal, apronte o preparación.
+2. Desarrollo pleno: puede perturbar la acción adecuada.
 
 ## Mapa ultrarrápido
 
@@ -309,4 +336,3 @@ flowchart TD
   L --> N["Transferencia"]
   N --> O["3 vertientes y 3 operaciones técnicas"]
 ```
-

@@ -49,7 +49,7 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 | Conferencia 18, *La fijación al trauma, lo inconsciente* | 1917 | 254, 259–260 | Seminarios | Fijación, trauma y eficacia inconsciente. |
 | Conferencia 19, *Resistencia y represión* | 1917 | 273–275 | Seminarios | Relación entre resistencia clínica y represión. |
 | *Sobre el psicoanálisis silvestre* | 1910 | 221–223 | Seminarios | Diferencia entre informar y producir elaboración; primera teoría de angustia. |
-| Conferencia 25, *La angustia* | 1917 | 365–368, 372–374 | Seminarios | Angustia realista y neurótica; articulación provisional con represión. |
+| Conferencia 25, *La angustia* | 1917 | 365–368, 372–374 | Seminarios | Angustia realista y neurótica; peligro exterior y exigencia pulsional; serie represión–angustia–síntoma. |
 | *Sobre la iniciación del tratamiento* | 1913 | 138–140 | Prácticos | Regla fundamental, ensayo previo, resistencia y momento de intervención. |
 
 ## Textos bisagra

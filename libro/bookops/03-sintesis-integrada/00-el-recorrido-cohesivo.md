@@ -91,7 +91,7 @@ La represión permite distinguir el destino de la representación y el del \conc
 
 Este paso incorpora la angustia al campo de la metapsicología. Ya no se trata únicamente de excitación sexual somática no ligada, como en la primera teoría de las neurosis actuales. La angustia puede pensarse ahora en relación con pulsión, conflicto y represión.
 
-La articulación completa queda abierta hasta incorporar las clases finales y reconstruir con precisión la Conferencia 25.
+La serie común de las neurosis de transferencia ordena la articulación: exigencia pulsional → represión → angustia → síntoma. El síntoma intenta ligar, acotar o evitar el desarrollo de angustia. La Conferencia 25 permite reconocer además un factor común: tanto la angustia realista como la neurótica son respuestas ante un peligro, aunque en la segunda el peligro sea una exigencia pulsional interna.
 
 ## Cómo leer lo que sigue
 
@@ -103,4 +103,3 @@ Los capítulos siguientes desarrollan este mapa por problemas. Cada uno debe res
 4. ¿cómo lo utiliza la cátedra para articular textos y clínica?
 
 El objetivo no es memorizar una secuencia de definiciones, sino poder reconstruir el movimiento que las vuelve necesarias.
-
