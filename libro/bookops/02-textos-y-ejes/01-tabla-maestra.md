@@ -17,12 +17,12 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 | *El esclarecimiento sexual del niño* | 1907 | 117–119 | Teóricos y seminarios | Límite de la información adulta frente a la investigación sexual infantil. |
 | [*Pulsiones y destinos de pulsión*](05-pulsiones-y-destinos-de-pulsion.md) | 1915 | 113–122; 128; 132–134 | Teóricos y prácticos | Concepto de pulsión, cuatro términos, dualismo y destinos pulsionales. |
 | [*La perturbación psicógena de la visión*](08-la-perturbacion-psicogena-de-la-vision.md) | 1910 | 209–216 | Teóricos y seminarios | Órgano de doble función, conflicto entre pulsiones yoicas y sexuales. |
-| *Introducción del narcisismo* | 1914 | 71–98 | Teóricos y seminarios | Constitución del yo, libido yoica y de objeto, elección de objeto e ideales. |
+| [*Introducción del narcisismo*](09-introduccion-del-narcisismo.md) | 1914 | 71–98 | Teóricos y seminarios | Constitución del yo, libido yoica y de objeto, elección de objeto e ideales. |
 | [*El creador literario y el fantaseo*](06-el-creador-literario-y-el-fantaseo.md) | 1908 | 127–135 | Seminarios | Juego, fantasía, deseo insatisfecho, temporalidad y placer previo. |
 | *Experiencias y ejemplos…: Pies (zapatos) abochornados* | 1913 | 199–200, tomo XIII | Seminarios | Teoría sexual infantil reprimida, inhibición, saber y transferencia. |
 | Conferencia 26, *La teoría de la libido y el narcisismo* | 1917 | 375–391 | Seminarios | Economía de la libido y oposición libido yoica/libido de objeto. |
 | [*Tres ensayos de teoría sexual*, cap. III, §5](02-tres-ensayos-de-teoria-sexual.md) | 1905 | 202–210 | Seminarios | Hallazgo de objeto como reencuentro y continuidad con el apuntalamiento. |
-| *Psicología de las masas y análisis del yo*, VII | 1921 | 99–104 | Seminarios | Identificación, formación del yo e Ideal del Yo. |
+| [*Psicología de las masas y análisis del yo*, VII](10-psicologia-de-las-masas-identificacion.md) | 1921 | 99–104 | Seminarios | Identificación, formación del yo e Ideal del Yo. |
 | [*Mis tesis sobre el papel de la sexualidad en la etiología de las neurosis*](03-mis-tesis-sobre-el-papel-de-la-sexualidad.md) | 1906 | 263–271 | Prácticos | Revisión de la teoría traumática y nuevo estatuto de la sexualidad infantil. |
 | [*Tres ensayos de teoría sexual*, cap. I §§4–5 y cap. II](02-tres-ensayos-de-teoria-sexual.md) | 1905 | 148–154, 157–188 | Prácticos | Perversión, síntoma, pulsiones parciales, sexualidad infantil y latencia. |
 | *Fragmento de análisis de un caso de histeria (Dora)* | 1905 | 21–22, 36–38, 42–43, 46 | Prácticos | Síntoma, sexualidad infantil, fantasía y práctica sexual del enfermo. |
@@ -37,7 +37,7 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 | *Nota sobre el concepto de lo inconsciente en psicoanálisis* | 1912 | 271–277 | Prácticos | Sentidos descriptivo, dinámico y sistemático de lo inconsciente. |
 | *Lo inconsciente*, cap. II | 1915 | 168–172 | Prácticos | Punto de vista tópico y pasaje entre sistemas. |
 | *Lo inconsciente*, cap. IV | 1915 | 177–186, 197–199 | Prácticos | Sustracción de investidura, contrainvestidura y mecanismos de represión. |
-| *Tótem y tabú*, cap. IV §§5–6 | 1913 | 142–152 | Teóricos y prácticos | Padre muerto, ley, culpa, obediencia retrospectiva y fundación. |
+| [*Tótem y tabú*, cap. IV §§5–6](11-totem-y-tabu-padre-muerto-y-ley.md) | 1913 | 142–152 | Teóricos y prácticos | Padre muerto, ley, culpa, obediencia retrospectiva y fundación. |
 | Conferencias 6 y 9 | 1916–17 | 93, 135 | Teóricos | Ejemplos de formación y eficacia de lo inconsciente. |
 | Conferencias 22 y 23 | 1917 | 310, 329 | Teóricos | Fijación, regresión y caminos de formación de síntoma. |
 | *Sobre la dinámica de la transferencia* | 1912 | 97–105 | Teóricos y prácticos | Cliché, serie psíquica, transferencia positiva/negativa, motor y resistencia. |

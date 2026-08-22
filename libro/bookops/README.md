@@ -24,6 +24,9 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [El creador literario y el fantaseo](02-textos-y-ejes/06-el-creador-literario-y-el-fantaseo.md)
 - [Sobre las teorías sexuales infantiles](02-textos-y-ejes/07-sobre-las-teorias-sexuales-infantiles.md)
 - [La perturbación psicógena de la visión](02-textos-y-ejes/08-la-perturbacion-psicogena-de-la-vision.md)
+- [Introducción del narcisismo](02-textos-y-ejes/09-introduccion-del-narcisismo.md)
+- [Psicología de las masas: identificación](02-textos-y-ejes/10-psicologia-de-las-masas-identificacion.md)
+- [Tótem y tabú: padre muerto y ley](02-textos-y-ejes/11-totem-y-tabu-padre-muerto-y-ley.md)
 
 ### Síntesis integrada
 

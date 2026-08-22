@@ -49,9 +49,9 @@ Si las pulsiones son inicialmente parciales y autoeróticas, ¿cómo se constitu
 
 ### Textos centrales
 
-1. *Introducción del narcisismo*.
-2. *Psicología de las masas y análisis del yo*, capítulo VII.
-3. *Tótem y tabú*, capítulo IV, §§5–6.
+1. [*Introducción del narcisismo*](09-introduccion-del-narcisismo.md).
+2. [*Psicología de las masas y análisis del yo*, capítulo VII](10-psicologia-de-las-masas-identificacion.md).
+3. [*Tótem y tabú*, capítulo IV, §§5–6](11-totem-y-tabu-padre-muerto-y-ley.md).
 
 ### Movimiento
 
