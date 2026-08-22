@@ -60,7 +60,7 @@ En este momento Freud sostiene el primer dualismo:
 1. \concept{pulsiones yoicas} o de autoconservación;
 2. \concept{pulsiones sexuales}.
 
-El dualismo permite pensar el conflicto, como muestra *La perturbación psicógena de la visión*. No debe reemplazarse retrospectivamente por la oposición posterior entre pulsiones de vida y de muerte.
+El dualismo permite pensar el conflicto, como muestra *La perturbación psicógena de la visión*. Para este parcial conviene conservar estrictamente los términos de esta formulación: pulsiones yoicas o de autoconservación y pulsiones sexuales.
 
 ## Los cuatro destinos
 
@@ -99,7 +99,7 @@ El texto desnaturaliza la sexualidad porque separa fuente, objeto y meta. Permit
 - Decir que su objeto está predeterminado.
 - Confundir esfuerzo con conducta activa.
 - Presentar fuente, esfuerzo, objeto y meta como etapas cronológicas.
-- Usar el dualismo vida–muerte para explicar un texto organizado por pulsiones yoicas y sexuales.
+- Confundir las pulsiones yoicas con la libido yoica: la primera pertenece al dualismo pulsional de este texto; la segunda nombra una localización de la libido introducida con el narcisismo.
 - Afirmar que la represión elimina la pulsión.
 
 ## Preguntas posibles

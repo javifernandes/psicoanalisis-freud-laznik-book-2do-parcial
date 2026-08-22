@@ -88,7 +88,7 @@ flowchart LR
 - Explicar el síntoma como simulación.
 - Oponer un cuerpo “psicológico” a un cuerpo “real”.
 - Afirmar que el ojo cumple primero una función biológica y después deja de ser corporal.
-- Confundir el primer dualismo con pulsiones de vida y de muerte.
+- Confundir las pulsiones yoicas de este primer dualismo con la libido yoica desarrollada en la teoría del narcisismo.
 - Leer la pérdida de visión como castigo consciente.
 - Olvidar la satisfacción sustitutiva alojada en el síntoma.
 
