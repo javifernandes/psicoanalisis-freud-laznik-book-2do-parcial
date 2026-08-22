@@ -30,6 +30,9 @@ La introducción de la pulsión transforma la etiología, el cuerpo, el aparato 
 - [La represión](02-textos-y-ejes/12-la-represion.md)
 - [Nota sobre el concepto de lo inconsciente](02-textos-y-ejes/13-nota-sobre-el-concepto-de-lo-inconsciente.md)
 - [Lo inconsciente](02-textos-y-ejes/14-lo-inconsciente.md)
+- [Sobre la dinámica de la transferencia](02-textos-y-ejes/15-sobre-la-dinamica-de-la-transferencia.md)
+- [Puntualizaciones sobre el amor de transferencia](02-textos-y-ejes/16-puntualizaciones-sobre-el-amor-de-transferencia.md)
+- [Recordar, repetir y reelaborar](02-textos-y-ejes/17-recordar-repetir-y-reelaborar.md)
 
 ### Síntesis integrada
 

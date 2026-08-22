@@ -40,10 +40,10 @@ Las páginas corresponden a la edición Amorrortu indicada en la guía y la mini
 | [*Tótem y tabú*, cap. IV §§5–6](11-totem-y-tabu-padre-muerto-y-ley.md) | 1913 | 142–152 | Teóricos y prácticos | Padre muerto, ley, culpa, obediencia retrospectiva y fundación. |
 | Conferencias 6 y 9 | 1916–17 | 93, 135 | Teóricos | Ejemplos de formación y eficacia de lo inconsciente. |
 | Conferencias 22 y 23 | 1917 | 310, 329 | Teóricos | Fijación, regresión y caminos de formación de síntoma. |
-| *Sobre la dinámica de la transferencia* | 1912 | 97–105 | Teóricos y prácticos | Cliché, serie psíquica, transferencia positiva/negativa, motor y resistencia. |
-| *Puntualizaciones sobre el amor de transferencia* | 1915 | 170–171 | Teóricos y prácticos | Genuinidad del amor, resistencia, abstinencia y posición analítica. |
+| [*Sobre la dinámica de la transferencia*](15-sobre-la-dinamica-de-la-transferencia.md) | 1912 | 97–105 | Teóricos y prácticos | Cliché, serie psíquica, transferencia positiva/negativa, motor y resistencia. |
+| [*Puntualizaciones sobre el amor de transferencia*](16-puntualizaciones-sobre-el-amor-de-transferencia.md) | 1915 | 170–171 | Teóricos y prácticos | Genuinidad del amor, resistencia, abstinencia y posición analítica. |
 | Conferencia 27, *La transferencia* | 1917 | 398–406 | Teóricos | Neurosis de transferencia y actualización del conflicto. |
-| *Recordar, repetir y reelaborar* | 1914 | 145–157 | Teóricos y prácticos | Repetición como recuerdo en acto, transferencia y trabajo de las resistencias. |
+| [*Recordar, repetir y reelaborar*](17-recordar-repetir-y-reelaborar.md) | 1914 | 145–157 | Teóricos y prácticos | Repetición como recuerdo en acto, transferencia y trabajo de las resistencias. |
 | Conferencia 23, *Los caminos de la formación de síntoma* | 1917 | 326–334 | Seminarios | Fantasía, regresión y satisfacción sustitutiva. |
 | Conferencia 17, *El sentido de los síntomas* | 1917 | 241–247 | Seminarios | Sentido, determinación y satisfacción sintomática. |
 | Conferencia 18, *La fijación al trauma, lo inconsciente* | 1917 | 254, 259–260 | Seminarios | Fijación, trauma y eficacia inconsciente. |

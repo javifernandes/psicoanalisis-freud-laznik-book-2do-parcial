@@ -97,9 +97,9 @@ flowchart LR
 
 ### Textos centrales
 
-1. *Sobre la dinámica de la transferencia*.
-2. *Puntualizaciones sobre el amor de transferencia*.
-3. *Recordar, repetir y reelaborar*.
+1. [*Sobre la dinámica de la transferencia*](15-sobre-la-dinamica-de-la-transferencia.md).
+2. [*Puntualizaciones sobre el amor de transferencia*](16-puntualizaciones-sobre-el-amor-de-transferencia.md).
+3. [*Recordar, repetir y reelaborar*](17-recordar-repetir-y-reelaborar.md).
 
 ### Movimiento
 
